@@ -1,6 +1,6 @@
 # VLC-Papirus主题汉化版
 
-![汉化界面](/files/menu_all.png)
+![汉化界面](https://raw.githubusercontent.com/BaoPaper/VLC-Papirus-ChineseSimplified/master/files/menu_all.png)
 
 ### 使用方法
 
